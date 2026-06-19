@@ -54,7 +54,7 @@ class PhishingDetectorTest(unittest.TestCase):
         self.assertTrue(any("브랜드명과 URL 도메인 불일치" in reason for reason in result.reasons))
 
     def test_short_url_is_risky(self):
-        result = detect_message("지원금 신청 bit.ly/help-now")
+        result = detect_message("지원금 신청 https://bit.ly/help-now")
         self.assert_at_least(result, "위험")
 
     def test_ip_address_url_is_risky(self):
