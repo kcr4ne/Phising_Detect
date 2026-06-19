@@ -1,0 +1,3 @@
+# Runtime code uses the Python standard library only.
+# Optional: install this when building a Windows exe.
+pyinstaller>=6.0
