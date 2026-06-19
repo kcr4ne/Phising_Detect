@@ -7,16 +7,16 @@ Windows용 피싱 문자 탐지 GUI 프로그램입니다. 사용자는 `phishin
 
 1. `phishing-detector.exe` 파일을 실행합니다.
    <img width="1094" height="172" alt="image" src="https://github.com/user-attachments/assets/8433c42c-e20d-4ec5-8491-94704abdd008" />
-<br>
+
 2. 검사할 문자 내용을 입력합니다.
    <img width="740" height="350" alt="image" src="https://github.com/user-attachments/assets/3b8c065c-9355-4ed9-a26b-bd726e9d5e5c" />
-<br>
+
 3. 필요하면 발신번호도 입력합니다.
   <img width="472" height="128" alt="image" src="https://github.com/user-attachments/assets/449e0bcb-aa6d-4ae9-9974-3f4e04e595fe" />
-<br>
+
 4. `정밀검사` 버튼을 누릅니다.
   <img width="618" height="302" alt="image" src="https://github.com/user-attachments/assets/ff433666-6b45-4575-8665-f55ee9685d5d" />
-<br>
+
 5. 결과 화면에서 위험 등급, 점수, 탐지 URL, 키워드, 판단 근거를 확인합니다.
   <img width="1458" height="1188" alt="image" src="https://github.com/user-attachments/assets/fc43db97-f558-4f34-916d-ddd6e084477a" />
 
