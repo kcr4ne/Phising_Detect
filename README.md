@@ -11,10 +11,10 @@ Windows용 피싱 문자 탐지 GUI 프로그램입니다. 사용자는 `phishin
 2. 검사할 문자 내용을 입력합니다.
    <img width="740" height="350" alt="image" src="https://github.com/user-attachments/assets/3b8c065c-9355-4ed9-a26b-bd726e9d5e5c" />
 
-3. 필요하면 발신번호도 입력합니다.
+3. 필요하면 발신번호도 입력합니다.<br>
    <img width="472" height="128" alt="image" src="https://github.com/user-attachments/assets/449e0bcb-aa6d-4ae9-9974-3f4e04e595fe" />
 
-4. `정밀검사` 버튼을 누릅니다.
+4. `정밀검사` 버튼을 누릅니다.<br>
    <img width="618" height="302" alt="image" src="https://github.com/user-attachments/assets/ff433666-6b45-4575-8665-f55ee9685d5d" />
 
 5. 결과 화면에서 위험 등급, 점수, 탐지 URL, 키워드, 판단 근거를 확인합니다.
