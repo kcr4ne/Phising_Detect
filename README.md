@@ -24,7 +24,7 @@ Windows용 피싱 문자 탐지 GUI 프로그램입니다. 사용자는 `phishin
 
 `phishing-detector.exe`는 바탕화면, 다운로드 폴더, USB처럼 파일 생성이 가능한 위치에서 실행하는 것이 좋습니다.
 
-프로그램 실행 시 `phishing_rules.db` 파일이 exe와 같은 폴더에 자동 생성됩니다. 이 DB에는 위험 키워드, 공식 도메인, 예시 문자, 검사 로그가 저장됩니다.
+프로그램 실행 시 `phishing_rules.db` 파일이 exe와 같은 폴더에 자동 생성됩니다. 이 DB에는 위험 키워드, 공식 도메인, 예시 문자, 검사 로그가 저장됩니다.<br>
 <img width="360" height="152" alt="image" src="https://github.com/user-attachments/assets/04db6b9b-fa27-429d-9365-5409e8ad5158" />
 
 ## 공유 시 주의사항
